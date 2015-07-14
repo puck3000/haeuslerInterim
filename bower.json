@@ -1,11 +1,11 @@
 {
   "name": "new gulpBP",
   "version": "0.0.0",
-  "homepage": "https://github.com/puck3000/gulpBP",
+  "homepage": "https://github.com/puck3000/haeuslerInterim",
   "authors": [
     "puck3000 <daniel.lerch@gmail.com>"
   ],
-  "description": "my gulp bp",
+  "description": "Interimsseite für Häusler",
   "moduleType": [
     "amd",
     "es6",

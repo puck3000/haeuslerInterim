@@ -1,21 +1,21 @@
 {
   "name": "gulpBP",
   "version": "1.0.0",
-  "description": "My Gulp-Boilerplate",
+  "description": "Häusler Web Interim",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/puck3000/gulpBP.git"
+    "url": "git://github.com/puck3000/haeuslerInterim.git"
   },
   "author": "daniellerch",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/puck3000/gulpBP/issues"
+    "url": "https://github.com/puck3000/haeuslerInterim/issues"
   },
-  "homepage": "https://github.com/puck3000/gulpBP",
+  "homepage": "https://github.com/puck3000/haeuslerInterim",
   "devDependencies": {
     "autoprefixer-stylus": "^0.5.0",
     "browser-sync": "^2.0.0-rc3",
