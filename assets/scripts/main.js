@@ -1,1 +1,1 @@
-$(function(){$(".main-gallery").flickity({contain:!0,imagesLoaded:!0,prevNextButtons:!1,pageDots:!1,wrapAround:!0,autoPlay:4e3,draggable:!1,lazyLoad:!0,cellAlign:"center"})});
+$(function(){$(".main-gallery").flickity({contain:!0,imagesLoaded:!0,prevNextButtons:!1,pageDots:!1,wrapAround:!0,autoPlay:4e3,draggable:!1,lazyLoad:!0})});
