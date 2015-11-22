@@ -9,6 +9,6 @@ $(function() {
 		draggable: false,
 		lazyLoad: true,
 		// setGallerySize: false,
-		cellAlign: 'center'
+		// cellAlign: 'center'
 	});
 });
